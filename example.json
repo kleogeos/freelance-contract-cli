@@ -1,0 +1,16 @@
+{
+  "freelancer": "Jane Doe, Freelance Developer",
+  "client": "Acme Corp",
+  "start_date": "2026-11-01",
+  "end_date": "2026-12-15",
+  "scope": [
+    "Redesign the marketing website (5 pages)",
+    "Set up analytics tracking",
+    "One round of revisions"
+  ],
+  "payment_amount": "$3,200 total, 50% deposit before work starts, 50% on delivery",
+  "payment_terms": "Invoiced on delivery. Net 14, 1.5% monthly interest on late payments.",
+  "ip_ownership": "client",
+  "termination_notice_days": 14,
+  "governing_law": "the State of California"
+}
