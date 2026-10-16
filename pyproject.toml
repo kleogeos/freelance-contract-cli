@@ -1,0 +1,31 @@
+[project]
+name = "freelance-contract-cli"
+version = "1.0.0"
+description = "Generate a plain-language freelance services agreement (HTML) from a JSON file. Zero dependencies."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{name = "kleogeos", email = "kleogeos@gmail.com"}]
+keywords = ["freelance", "contract", "contract-generator", "services-agreement", "html", "cli"]
+classifiers = [
+    "Environment :: Console",
+    "Intended Audience :: Other Audience",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://github.com/kleogeos/freelance-contract-cli"
+Repository = "https://github.com/kleogeos/freelance-contract-cli"
+
+[project.scripts]
+freelance-contract = "contract:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["contract"]
