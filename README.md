@@ -1,5 +1,7 @@
 # freelance-contract-cli
 
+![Test CLI](https://github.com/kleogeos/freelance-contract-cli/actions/workflows/test.yml/badge.svg)
+
 Generate a plain-language, print-ready freelance services agreement (HTML) from a JSON file. No dependencies, no sign-up, no SaaS account.
 
 ```bash
