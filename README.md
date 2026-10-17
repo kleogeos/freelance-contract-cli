@@ -40,7 +40,7 @@ Only `freelancer` and `client` are required; everything else is optional and has
 
 ### Is this legal advice?
 
-No. This is a general-purpose template covering the basics of straightforward freelance work. For complex, high-value, or cross-border engagements, have a licensed attorney in your jurisdiction review or draft the agreement instead. The generated document says so too, right above the signature block.
+No. This is a general-purpose template covering the basics of straightforward freelance work. For complex, high-value, or cross-border engagements, have a licensed attorney in your jurisdiction review or draft the agreement instead. The generated document says so too, right above the signature block. For a plain-language breakdown of which clauses actually matter and why, see [How to Write a Freelance Contract](https://kleogeos.github.io/freelancer-tools/how-to-write-a-freelance-contract.html?src=cli-contract-howto).
 
 ### Where this fits
 
