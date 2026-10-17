@@ -46,7 +46,7 @@ No. This is a general-purpose template covering the basics of straightforward fr
 
 Send a [proposal](https://github.com/kleogeos/freelance-proposal-cli) → get it signed with this → track the work with [freelance-time-cli](https://github.com/kleogeos/freelance-time-cli) → bill it with [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli). Before signing anything, you can also run the terms through [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) to catch common missing clauses.
 
-Want a more complete set of clauses (confidentiality carve-outs, IP assignment variants, non-compete) plus a matching proposal and invoice template already laid out? See the [Freelancer Starter Kit](https://kleogeos.github.io/freelancer-tools/kit.html).
+Want a more complete set of clauses (confidentiality carve-outs, IP assignment variants, non-compete) plus a matching proposal and invoice template already laid out? See the [Freelancer Starter Kit](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-contract).
 
 ## Tests
 
